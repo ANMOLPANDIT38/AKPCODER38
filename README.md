@@ -1,5 +1,5 @@
 ![logo](https://github.com/AKPCODER38/AKPCODER38/blob/main/banner%20linkdein%20anmol.png)
-<h2 align="left">Hi ! Anmol Kumar Pandit</h2>
+<h2 align="center">Hi !👋 Anmol Kumar Pandit</h2>
 
 ###
 
@@ -7,7 +7,8 @@
 
 ###
 
-<p align="left">🔭 <b>I’m currently working on:</b><br>Fullstack Development<br><br>🌱<b>I’m currently learning:</b><br>NextJs ,ReactJs and TypeScript.<br><br><b>💬 Interested in:</b><br>JavaScript, React, Node.js.</p>
+<p align="left">
+    🌱<b>I’m currently learning:</b><br>DSA AND WEB DEVELOPMENT.<br><br><b>💬 Interested in:</b><br>MONGODB, SQL, Node.js.</p>
 
 ###
 
@@ -84,4 +85,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akpcoder38&label=Profile%20views&color=0e75b6&style=flat" alt="akpcoder38" /> </p>
 
+
 ###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKPCODER38&" alt="AKPCODER38" /></p>
